@@ -4,7 +4,7 @@ This is the my solution code for the Route Planning project (originally forked f
 
 ### Notes:
 - This uses a modified version of the FindNeighbors Method, the original version as suggested/accepted by udacity fails to generate 
-correct/optimal routes in many cases. Thanks to @dbecad for pointing out the flaw.
+correct/optimal routes in many cases. Thanks to [@dbecad](https://github.com/dbecad/CppND-Route-Planning-Project/blob/master/README.md) for pointing out the flaw.
 - The program will use up 100% of one CPU-core while the display window is opened. This is due to a bug/design problem in the underlying [cpp-io2d library](https://github.com/cpp-io2d/P0267_RefImpl/issues/116).
 
 Instructions for each exercise can be found in the `instructions` directory, and unit tests for some exercises in the `test` directory.
